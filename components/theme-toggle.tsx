@@ -21,9 +21,9 @@ export function ThemeToggle() {
         viewBox="0 0 24 24"
         fill="none"
         stroke="currentColor"
-        stroke-width="2"
-        stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeWidth="2"
+        strokeLinecap="round"
+        strokeLinejoin="round"
         className="rotate-0 scale-100 transition-all dark:-rotate-90 dark:scale-0"
       >
         <path d="M12 16a4 4 0 1 0 0-8 4 4 0 0 0 0 8z"></path>
@@ -43,9 +43,9 @@ export function ThemeToggle() {
         viewBox="0 0 24 24"
         fill="none"
         stroke="currentColor"
-        stroke-width="2"
-        stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeWidth="2"
+        strokeLinecap="round"
+        strokeLinejoin="round"
         className="absolute rotate-90 scale-0 transition-all dark:rotate-0 dark:scale-100"
       >
         <path d="M12 3a6.364 6.364 0 0 0 9 9 9 9 0 1 1-9-9Z"></path>
